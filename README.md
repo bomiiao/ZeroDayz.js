@@ -1,2 +1,0 @@
-# ZeroDayz.js
-Blah blah
